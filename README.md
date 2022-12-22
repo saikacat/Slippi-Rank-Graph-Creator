@@ -7,14 +7,14 @@ I used repl.it to host this for free.
 
 ## How do I run it?
 
-From looking at pyproject, we probably need these dependencies 
-python = ">=3.8.0,<3.9" 
-numpy = "^1.22.2" 
-replit = "^3.2.4" 
-Flask = "^2.2.0" 
-urllib3 = "^1.26.12" 
-pandas = "^1.5.2" 
-matplotlib = "^3.6.2"
+Need these dependencies \n
+python = ">=3.8.0,<3.9" \n
+numpy = "^1.22.2" \n
+replit = "^3.2.4" \n
+Flask = "^2.2.0" \n
+urllib3 = "^1.26.12" \n 
+pandas = "^1.5.2"  \n
+matplotlib = "^3.6.2" \n
 
 Run Main.py. The program should automatically create JSON files of the current players. Graphs look something like this YAP
 
